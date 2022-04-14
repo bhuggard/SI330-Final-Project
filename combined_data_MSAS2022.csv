@@ -1,0 +1,341 @@
+,name,real_life_value_usd,fifa_value_usd,national_team,position,sub_position,strong_foot,fifa_rating,highest_possible_fifa_rating,age,dob,club_name,league_name
+0,Kylian Mbappe,190080000,213400000,France,Attack,Centre-Forward,Right,91,95,22,12/20/1998,Paris Saint-Germain,French Ligue 1
+1,Erling Haaland,178200000,151250000,Norway,Attack,Centre-Forward,Left,88,93,20,7/21/2000,Borussia Dortmund,German 1. Bundesliga
+2,Mohamed Salah,118800000,111100000,Egypt,Attack,Right Winger,Left,89,89,29,6/15/1992,Liverpool,English Premier League
+3,Romelu Lukaku,118800000,102850000,Belgium,Attack,Centre-Forward,Left,88,88,28,5/13/1993,Chelsea,English Premier League
+4,Harry Kane,118800000,142450000,England,Attack,Centre-Forward,Right,90,90,27,7/28/1993,Tottenham Hotspur,English Premier League
+5,Vinicius Junior,118800000,51150000,Brazil,Attack,Left Winger,Right,80,90,20,7/12/2000,Real Madrid CF,Spain Primera Division
+6,Neymar,106920000,141900000,Brazil,Attack,Left Winger,Right,91,91,29,2/5/1992,Paris Saint-Germain,French Ligue 1
+7,Bruno Fernandes,106920000,118250000,Portugal,Midfield,Attacking Midfield,Right,88,89,26,9/8/1994,Manchester United,English Premier League
+8,Kevin De Bruyne,106920000,138050000,Belgium,Midfield,Attacking Midfield,Right,91,91,30,6/28/1991,Manchester City,English Premier League
+9,Marcus Rashford,100980000,85250000,England,Attack,Left Winger,Right,85,89,23,10/31/1997,Manchester United,English Premier League
+10,Phil Foden,100980000,103950000,England,Midfield,Central Midfield,Left,84,92,21,5/28/2000,Manchester City,English Premier League
+11,Raheem Sterling,100980000,118250000,England,Attack,Left Winger,Right,88,89,26,12/8/1994,Manchester City,English Premier League
+12,Dusan Vlahovic,100980000,31900000,Serbia,Attack,Centre-Forward,Left,78,85,21,1/28/2000,Fiorentina,Italian Serie A
+13,Jadon Sancho,100980000,128150000,England,Attack,Left Winger,Right,87,91,21,3/25/2000,Manchester United,English Premier League
+14,Joshua Kimmich,100980000,118800000,Germany,Midfield,Defensive Midfield,Right,89,90,26,2/8/1995,FC Bayern München,German 1. Bundesliga
+15,Heung Min Son,95040000,114400000,"Korea, South",Attack,Left Winger,Both,89,89,28,7/8/1992,Tottenham Hotspur,English Premier League
+16,Trent Alexander Arnold,95040000,125400000,England,Defender,Right-Back,Right,87,92,22,10/7/1998,Liverpool,English Premier League
+17,Pedri,95040000,59400000,Spain,Midfield,Central Midfield,Right,81,91,18,11/25/2002,FC Barcelona,Spain Primera Division
+18,Sadio Mane,95040000,111100000,Senegal,Attack,Left Winger,Right,89,89,29,4/10/1992,Liverpool,English Premier League
+19,Jack Grealish,95040000,55550000,England,Attack,Left Winger,Right,84,85,25,9/10/1995,Manchester City,English Premier League
+20,Ruben Dias,89100000,112750000,Portugal,Defender,Centre-Back,Right,87,91,24,5/14/1997,Manchester City,English Premier League
+21,Bernardo Silva,89100000,88000000,Portugal,Midfield,Attacking Midfield,Left,86,87,26,8/10/1994,Manchester City,English Premier League
+22,Jude Bellingham,89100000,40700000,England,Midfield,Central Midfield,Right,79,89,18,6/29/2003,Borussia Dortmund,German 1. Bundesliga
+23,Declan Rice,89100000,47300000,England,Midfield,Defensive Midfield,Right,82,87,22,1/14/1999,West Ham United,English Premier League
+24,Marquinhos,89100000,99550000,Brazil,Defender,Centre-Back,Right,87,90,27,5/14/1994,Paris Saint-Germain,French Ligue 1
+25,Mason Mount,89100000,64350000,England,Midfield,Attacking Midfield,Right,83,89,22,1/10/1999,Chelsea,English Premier League
+26,Mikel Oyarzabal,83160000,85250000,Spain,Attack,Left Winger,Left,85,89,24,4/21/1997,Real Sociedad,Spain Primera Division
+27,Matthijs De Ligt,83160000,82500000,Netherlands,Defender,Centre-Back,Right,85,90,21,8/12/1999,Juventus,Italian Serie A
+28,Rodri,83160000,89100000,Spain,Midfield,Defensive Midfield,Right,86,89,25,6/22/1996,Manchester City,English Premier League
+29,Florian Wirtz,83160000,32450000,Germany,Midfield,Attacking Midfield,Right,78,89,18,5/3/2003,Bayer 04 Leverkusen,German 1. Bundesliga
+30,Leroy Sane,83160000,61600000,Germany,Attack,Left Winger,Left,84,87,25,1/11/1996,FC Bayern München,German 1. Bundesliga
+31,Serge Gnabry,83160000,70950000,Germany,Attack,Right Winger,Right,85,86,25,7/14/1995,FC Bayern München,German 1. Bundesliga
+32,Kai Havertz,83160000,103950000,Germany,Midfield,Attacking Midfield,Left,84,92,22,6/11/1999,Chelsea,English Premier League
+33,Nicolo Barella,83160000,69850000,Italy,Midfield,Central Midfield,Right,84,89,24,2/7/1997,Inter,Italian Serie A
+34,Leon Goretzka,83160000,102300000,Germany,Midfield,Central Midfield,Right,87,88,26,2/6/1995,FC Bayern München,German 1. Bundesliga
+35,Achraf Hakimi,83160000,76450000,Morocco,Defender,Right-Back,Right,85,88,22,11/4/1998,Paris Saint-Germain,French Ligue 1
+36,Alphonso Davies,83160000,62700000,Canada,Defender,Left-Back,Left,82,89,20,11/2/2000,FC Bayern München,German 1. Bundesliga
+37,Frenkie De Jong,83160000,131450000,Netherlands,Midfield,Central Midfield,Right,87,92,24,5/12/1997,FC Barcelona,Spain Primera Division
+38,Federico Chiesa,83160000,88550000,Italy,Attack,Right Winger,Right,83,91,23,10/25/1997,Juventus,Italian Serie A
+39,Lautaro Martinez,83160000,85800000,Argentina,Attack,Centre-Forward,Right,85,89,23,8/22/1997,Inter,Italian Serie A
+40,Federico Valverde,77220000,63800000,Uruguay,Midfield,Central Midfield,Right,83,89,22,7/22/1998,Real Madrid CF,Spain Primera Division
+41,Andrew Robertson,77220000,91850000,Scotland,Defender,Left-Back,Left,87,88,27,3/11/1994,Liverpool,English Premier League
+42,Gianluigi Donnarumma,77220000,131450000,Italy,Goalkeeper,Goalkeeper,Right,89,93,22,2/25/1999,Paris Saint-Germain,French Ligue 1
+43,Bukayo Saka,77220000,50050000,England,Midfield,Right Midfield,Left,80,88,19,9/5/2001,Arsenal,English Premier League
+44,Thibaut Courtois,77220000,94050000,Belgium,Goalkeeper,Goalkeeper,Left,89,91,29,5/11/1992,Real Madrid CF,Spain Primera Division
+45,Milan Skriniar,77220000,81400000,Slovakia,Defender,Centre-Back,Right,86,88,26,2/11/1995,Inter,Italian Serie A
+46,Raphael Varane,77220000,75350000,France,Defender,Centre-Back,Right,86,88,28,4/25/1993,Manchester United,English Premier League
+47,Diogo Jota,71280000,50600000,Portugal,Attack,Centre-Forward,Right,82,87,24,12/4/1996,Liverpool,English Premier League
+48,Lionel Messi,71280000,85800000,Argentina,Attack,Right Winger,Left,93,93,34,6/24/1987,Paris Saint-Germain,French Ligue 1
+49,Alessandro Bastoni,71280000,48950000,Italy,Defender,Centre-Back,Left,80,89,22,4/13/1999,Inter,Italian Serie A
+50,Joao Cancelo,71280000,78650000,Portugal,Defender,Right-Back,Right,86,87,27,5/27/1994,Manchester City,English Premier League
+51,Alisson,71280000,90200000,Brazil,Goalkeeper,Goalkeeper,Right,89,90,28,10/2/1992,Liverpool,English Premier League
+52,Gabriel Jesus,71280000,57750000,Brazil,Attack,Centre-Forward,Right,83,87,24,4/3/1997,Manchester City,English Premier League
+53,Casemiro,71280000,96800000,Brazil,Midfield,Defensive Midfield,Right,89,89,29,2/23/1992,Real Madrid CF,Spain Primera Division
+54,Eder Militao,71280000,62150000,Brazil,Defender,Centre-Back,Right,82,89,23,1/18/1998,Real Madrid CF,Spain Primera Division
+55,Wilfred Ndidi,71280000,73150000,Nigeria,Midfield,Defensive Midfield,Right,85,88,24,12/16/1996,Leicester City,English Premier League
+56,Jules Kounde,71280000,58300000,France,Defender,Centre-Back,Right,83,89,22,11/12/1998,Sevilla FC,Spain Primera Division
+57,Joao Felix,71280000,90200000,Portugal,Attack,Second Striker,Both,83,91,21,11/10/1999,Atlético de Madrid,Spain Primera Division
+58,Marcos Llorente,71280000,96800000,Spain,Midfield,Central Midfield,Right,86,89,26,1/30/1995,Atlético de Madrid,Spain Primera Division
+59,Fabinho,71280000,80850000,Brazil,Midfield,Defensive Midfield,Right,86,88,27,10/23/1993,Liverpool,English Premier League
+60,Jan Oblak,71280000,123200000,Slovenia,Goalkeeper,Goalkeeper,Right,91,93,28,1/7/1993,Atlético de Madrid,Spain Primera Division
+61,Victor Osimhen,71280000,47300000,Nigeria,Attack,Centre-Forward,Right,80,87,22,12/29/1998,Napoli,Italian Serie A
+62,Virgil Van Dijk,65340000,94600000,Netherlands,Defender,Centre-Back,Right,89,89,29,7/8/1991,Liverpool,English Premier League
+63,Youri Tielemans,65340000,62700000,Belgium,Midfield,Central Midfield,Right,84,87,24,5/7/1997,Leicester City,English Premier League
+64,Marco Verratti,65340000,87450000,Italy,Midfield,Central Midfield,Right,87,87,28,11/5/1992,Paris Saint-Germain,French Ligue 1
+65,David Alaba,65340000,39050000,Austria,Defender,Centre-Back,Left,84,84,29,6/24/1992,Real Madrid CF,Spain Primera Division
+66,Christopher Nkunku,65340000,42900000,France,Midfield,Attacking Midfield,Right,81,86,23,11/14/1997,RB Leipzig,German 1. Bundesliga
+67,Richarlison,65340000,51150000,Brazil,Attack,Centre-Forward,Right,82,87,24,5/10/1997,Everton,English Premier League
+68,Dayot Upamecano,65340000,70400000,France,Defender,Centre-Back,Right,82,90,22,10/27/1998,FC Bayern München,German 1. Bundesliga
+69,Paul Pogba,65340000,87450000,France,Midfield,Central Midfield,Both,87,87,28,3/15/1993,Manchester United,English Premier League
+70,Eduardo Camavinga,65340000,32450000,France,Midfield,Central Midfield,Left,78,89,18,11/10/2002,Real Madrid CF,Spain Primera Division
+71,Fabian Ruiz,65340000,46200000,Spain,Midfield,Central Midfield,Left,82,86,25,4/3/1996,Napoli,Italian Serie A
+72,Reece James,65340000,40700000,England,Defender,Right-Back,Right,81,86,21,12/8/1999,Chelsea,English Premier League
+73,Kingsley Coman,65340000,89100000,France,Attack,Right Winger,Right,86,87,25,6/13/1996,FC Bayern München,German 1. Bundesliga
+74,Ngolo Kante,59400000,110000000,France,Midfield,Defensive Midfield,Right,90,90,30,3/29/1991,Chelsea,English Premier League
+75,Carlos Soler,59400000,56650000,Spain,Midfield,Central Midfield,Right,81,88,24,1/2/1997,Valencia CF,Spain Primera Division
+76,Robert Lewandowski,59400000,131450000,Poland,Attack,Centre-Forward,Right,92,92,32,8/21/1988,FC Bayern München,German 1. Bundesliga
+77,Mason Greenwood,59400000,33550000,England,Attack,Right Winger,Both,78,89,19,10/1/2001,Manchester United,English Premier League
+78,Jonathan David,59400000,35200000,Canada,Attack,Centre-Forward,Both,78,86,21,1/14/2000,LOSC Lille,French Ligue 1
+79,Timo Werner,59400000,62150000,Germany,Attack,Centre-Forward,Right,84,87,25,3/6/1996,Chelsea,English Premier League
+80,James Maddison,59400000,45650000,England,Midfield,Attacking Midfield,Right,82,85,24,11/23/1996,Leicester City,English Premier League
+81,Ederson,59400000,103400000,Brazil,Goalkeeper,Goalkeeper,Left,89,91,27,8/17/1993,Manchester City,English Premier League
+82,Ferland Mendy,59400000,47850000,France,Defender,Left-Back,Left,83,86,26,6/8/1995,Real Madrid CF,Spain Primera Division
+83,Pau Torres,59400000,62150000,Spain,Defender,Centre-Back,Left,82,89,24,1/16/1997,Villarreal CF,Spain Primera Division
+84,Mikel Merino,59400000,55000000,Spain,Midfield,Central Midfield,Left,83,87,25,6/22/1996,Real Sociedad,Spain Primera Division
+85,Lucas Hernandez,59400000,48950000,France,Defender,Centre-Back,Left,83,86,25,2/14/1996,FC Bayern München,German 1. Bundesliga
+86,Piotr Zielinski,59400000,32450000,Poland,Midfield,Attacking Midfield,Both,81,82,27,5/20/1994,Napoli,Italian Serie A
+87,Dani Olmo,59400000,50600000,Spain,Midfield,Attacking Midfield,Right,82,87,23,5/7/1998,RB Leipzig,German 1. Bundesliga
+88,Jose Maria Gimenez,59400000,57200000,Uruguay,Defender,Centre-Back,Right,84,88,26,1/20/1995,Atlético de Madrid,Spain Primera Division
+89,Antoine Griezmann,59400000,58300000,France,Attack,Second Striker,Left,85,85,30,3/21/1991,Atlético de Madrid,Spain Primera Division
+90,Harry Maguire,57024000,46750000,England,Defender,Centre-Back,Right,84,86,28,3/5/1993,Manchester United,English Premier League
+91,Theo Hernandez,57024000,68750000,France,Defender,Left-Back,Left,84,90,23,10/6/1997,AC Milan,Italian Serie A
+92,Aymeric Laporte,53460000,84700000,Spain,Defender,Centre-Back,Left,86,89,27,5/27/1994,Manchester City,English Premier League
+93,Diego Carlos,53460000,33550000,Brazil,Defender,Centre-Back,Right,82,84,28,3/15/1993,Sevilla FC,Spain Primera Division
+94,Christian Pulisic,53460000,53900000,United States,Attack,Right Winger,Right,82,88,22,9/18/1998,Chelsea,English Premier League
+95,Memphis Depay,53460000,69300000,Netherlands,Attack,Centre-Forward,Right,85,86,27,2/13/1994,FC Barcelona,Spain Primera Division
+96,Mateo Kovacic,53460000,45650000,Croatia,Midfield,Central Midfield,Right,83,84,27,5/6/1994,Chelsea,English Premier League
+97,Ferran Torres,53460000,75350000,Spain,Attack,Right Winger,Right,82,90,21,2/29/2000,Manchester City,English Premier League
+98,Jorginho,53460000,57750000,Italy,Midfield,Defensive Midfield,Right,85,85,29,12/20/1991,Chelsea,English Premier League
+99,Dominic Calvert Lewin,53460000,41250000,England,Attack,Centre-Forward,Right,81,85,24,3/16/1997,Everton,English Premier League
+100,Kalidou Koulibaly,53460000,61050000,Senegal,Defender,Centre-Back,Right,86,86,30,6/20/1991,Napoli,Italian Serie A
+101,Tammy Abraham,53460000,34650000,England,Attack,Centre-Forward,Right,78,86,23,10/2/1997,Roma,Italian Serie A
+102,Marc Andre Ter Stegen,53460000,108900000,Germany,Goalkeeper,Goalkeeper,Right,90,92,29,4/30/1992,FC Barcelona,Spain Primera Division
+103,Tomas Soucek,53460000,39600000,Czech Republic,Midfield,Defensive Midfield,Right,82,85,26,2/27/1995,West Ham United,English Premier League
+104,Moussa Diaby,53460000,57750000,France,Attack,Left Winger,Left,81,88,21,7/7/1999,Bayer 04 Leverkusen,German 1. Bundesliga
+105,Lorenzo Pellegrini,53460000,41800000,Italy,Midfield,Central Midfield,Both,81,86,25,6/19/1996,Roma,Italian Serie A
+106,Amine Gouiri,53460000,31900000,France,Attack,Centre-Forward,Right,78,85,21,2/16/2000,OGC Nice,French Ligue 1
+107,Luke Shaw,49896000,53350000,England,Defender,Left-Back,Left,84,86,25,7/12/1995,Manchester United,English Premier League
+108,Martin Odegaard,49896000,53900000,Norway,Midfield,Attacking Midfield,Left,82,88,22,12/17/1998,Arsenal,English Premier League
+109,Jose Gaya,47520000,47850000,Spain,Defender,Left-Back,Left,83,86,26,5/25/1995,Valencia CF,Spain Primera Division
+110,Wesley Fofana,47520000,31900000,France,Defender,Centre-Back,Right,78,86,20,12/17/2000,Leicester City,English Premier League
+111,Youssef En Nesyri,47520000,48400000,Morocco,Attack,Centre-Forward,Left,82,86,24,6/1/1997,Sevilla FC,Spain Primera Division
+112,Nuno Mendes,47520000,31900000,Portugal,Defender,Left-Back,Left,78,88,19,6/19/2002,Paris Saint-Germain,French Ligue 1
+113,Yannick Carrasco,47520000,49500000,Belgium,Attack,Left Winger,Right,84,84,27,9/4/1993,Atlético de Madrid,Spain Primera Division
+114,Gerard Moreno,47520000,74800000,Spain,Attack,Centre-Forward,Left,86,86,29,4/7/1992,Villarreal CF,Spain Primera Division
+115,Koke,47520000,57750000,Spain,Midfield,Central Midfield,Right,85,85,29,1/8/1992,Atlético de Madrid,Spain Primera Division
+116,Thomas Lemar,47520000,52800000,France,Midfield,Attacking Midfield,Left,83,86,25,11/12/1995,Atlético de Madrid,Spain Primera Division
+117,Rodrygo,47520000,42350000,Brazil,Attack,Right Winger,Right,79,88,20,1/9/2001,Real Madrid CF,Spain Primera Division
+118,Alexander Isak,47520000,49500000,Sweden,Attack,Centre-Forward,Right,82,86,21,9/21/1999,Real Sociedad,Spain Primera Division
+119,Luis Diaz,47520000,36850000,Colombia,Attack,Left Winger,Right,80,86,24,1/13/1997,FC Porto,Portuguese Liga ZON SAGRES
+120,Thomas Partey,47520000,40150000,Ghana,Midfield,Defensive Midfield,Right,83,83,28,6/13/1993,Arsenal,English Premier League
+121,Riyad Mahrez,47520000,72050000,Algeria,Attack,Right Winger,Left,86,86,30,2/21/1991,Manchester City,English Premier League
+122,Presnel Kimpembe,47520000,50050000,France,Defender,Centre-Back,Left,83,87,25,8/13/1995,Paris Saint-Germain,French Ligue 1
+123,Edmond Tapsoba,47520000,53350000,Burkina Faso,Defender,Centre-Back,Right,81,88,22,2/2/1999,Bayer 04 Leverkusen,German 1. Bundesliga
+124,Raphinha,47520000,50600000,Brazil,Attack,Right Winger,Left,82,87,24,12/14/1996,Leeds United,English Premier League
+125,Kalvin Phillips,47520000,35750000,England,Midfield,Defensive Midfield,Right,81,85,25,12/2/1995,Leeds United,English Premier League
+126,Paulo Dybala,47520000,102300000,Argentina,Attack,Second Striker,Left,87,88,27,11/15/1993,Juventus,Italian Serie A
+127,Pierre Emile Hojbjerg,47520000,47850000,Denmark,Midfield,Central Midfield,Right,83,86,25,8/5/1995,Tottenham Hotspur,English Premier League
+128,Marco Asensio,47520000,52800000,Spain,Attack,Right Winger,Left,83,86,25,1/21/1996,Real Madrid CF,Spain Primera Division
+129,Wilfried Zaha,47520000,34100000,Cote d'Ivoire,Attack,Left Winger,Right,82,82,28,11/10/1992,Crystal Palace,English Premier League
+130,Marcelo Brozovic,47520000,40700000,Croatia,Midfield,Defensive Midfield,Both,84,84,28,11/16/1992,Inter,Italian Serie A
+131,Ruben Neves,47520000,50600000,Portugal,Midfield,Defensive Midfield,Right,82,87,24,3/13/1997,Wolverhampton Wanderers,English Premier League
+132,Angel Correa,47520000,52800000,Argentina,Attack,Second Striker,Right,83,86,26,3/9/1995,Atlético de Madrid,Spain Primera Division
+133,Aurelien Tchouameni,47520000,30800000,France,Midfield,Defensive Midfield,Right,79,85,21,1/27/2000,AS Monaco,French Ligue 1
+134,Aaron Wan Bissaka,45144000,53350000,England,Defender,Right-Back,Right,83,87,23,11/26/1997,Manchester United,English Premier League
+135,Andre Silva,45144000,56100000,Portugal,Attack,Centre-Forward,Right,84,85,25,11/6/1995,RB Leipzig,German 1. Bundesliga
+136,Roberto Firmino,45144000,59400000,Brazil,Attack,Centre-Forward,Right,85,85,29,10/2/1991,Liverpool,English Premier League
+137,Tanguy Ndombele,45144000,50600000,France,Midfield,Central Midfield,Right,82,87,24,12/28/1996,Tottenham Hotspur,English Premier League
+138,Ben Chilwell,45144000,44550000,England,Defender,Left-Back,Left,82,86,24,12/21/1996,Chelsea,English Premier League
+139,Antonio Rudiger,41580000,37950000,Germany,Defender,Centre-Back,Right,83,84,28,3/3/1993,Chelsea,English Premier League
+140,Hakan Calhanoglu,41580000,38500000,Turkey,Midfield,Central Midfield,Right,82,83,27,2/8/1994,Inter,Italian Serie A
+141,Stefan De Vrij,41580000,49500000,Netherlands,Defender,Centre-Back,Right,85,85,29,2/5/1992,Inter,Italian Serie A
+142,Pedro Neto,41580000,31350000,Portugal,Attack,Left Winger,Left,78,85,21,3/9/2000,Wolverhampton Wanderers,English Premier League
+143,Niklas Sule,41580000,44550000,Germany,Defender,Centre-Back,Right,82,87,25,9/3/1995,FC Bayern München,German 1. Bundesliga
+144,Manuel Locatelli,41580000,46200000,Italy,Midfield,Defensive Midfield,Right,82,87,23,1/8/1998,Juventus,Italian Serie A
+145,Raphael Guerreiro,41580000,44550000,Portugal,Defender,Left-Back,Left,84,84,27,12/22/1993,Borussia Dortmund,German 1. Bundesliga
+146,Robin Gosens,41580000,39600000,Germany,Midfield,Left Midfield,Left,83,83,26,7/5/1994,Atalanta,Italian Serie A
+147,Saul Niguez,41580000,43450000,Spain,Midfield,Central Midfield,Left,82,85,26,11/21/1994,Chelsea,English Premier League
+148,Pedro Goncalves,41580000,56650000,Portugal,Attack,Right Winger,Right,81,88,23,6/28/1998,Sporting CP,Portuguese Liga ZON SAGRES
+149,Cristian Romero,41580000,45650000,Argentina,Defender,Centre-Back,Right,82,87,23,4/27/1998,Tottenham Hotspur,English Premier League
+150,Ryan Gravenberch,41580000,36300000,Netherlands,Midfield,Central Midfield,Right,78,90,19,5/16/2002,Ajax,Holland Eredivisie
+151,Cristiano Ronaldo,41580000,49500000,Portugal,Attack,Centre-Forward,Right,91,91,36,2/5/1985,Manchester United,English Premier League
+152,Domenico Berardi,41580000,36850000,Italy,Attack,Right Winger,Left,82,82,26,8/1/1994,U.S. Sassuolo Calcio,Italian Serie A
+153,Hirving Lozano,41580000,34100000,Mexico,Attack,Right Winger,Right,81,82,25,7/30/1995,Napoli,Italian Serie A
+154,Antony,41580000,43450000,Brazil,Attack,Right Winger,Left,79,88,21,2/24/2000,Ajax,Holland Eredivisie
+155,Emiliano Buendia,41580000,29150000,Argentina,Attack,Right Winger,Right,79,84,24,12/25/1996,Aston Villa,English Premier League
+156,Ilkay Gundogan,41580000,56650000,Germany,Midfield,Central Midfield,Right,85,85,30,10/24/1990,Manchester City,English Premier League
+157,Andreas Christensen,41580000,30800000,Denmark,Defender,Centre-Back,Right,80,85,25,4/10/1996,Chelsea,English Premier League
+158,Hakim Ziyech,41580000,46750000,Morocco,Midfield,Attacking Midfield,Left,84,84,28,3/19/1993,Chelsea,English Premier League
+159,Scott Mctominay,41580000,30250000,Scotland,Midfield,Defensive Midfield,Right,80,84,24,12/8/1996,Manchester United,English Premier League
+160,Lucas Paqueta,41580000,42350000,Brazil,Midfield,Attacking Midfield,Left,81,86,23,8/27/1997,Olympique Lyonnais,French Ligue 1
+161,Nicolo Zaniolo,39204000,34650000,Italy,Attack,Right Winger,Left,78,87,21,7/2/1999,Roma,Italian Serie A
+162,Edouard Mendy,38016000,33000000,Senegal,Goalkeeper,Goalkeeper,Right,83,85,29,3/1/1992,Chelsea,English Premier League
+163,Harvey Barnes,38016000,38500000,England,Midfield,Left Midfield,Right,81,84,23,12/9/1997,Leicester City,English Premier League
+164,Emiliano Martinez,38016000,36850000,Argentina,Goalkeeper,Goalkeeper,Right,84,85,28,9/2/1992,Aston Villa,English Premier League
+165,Luis Alberto,38016000,46750000,Spain,Midfield,Central Midfield,Right,84,84,28,9/28/1992,Lazio,Italian Serie A
+166,Kieran Tierney,38016000,34100000,Scotland,Defender,Left-Back,Left,80,86,24,6/5/1997,Arsenal,English Premier League
+167,James Ward Prowse,38016000,36850000,England,Midfield,Central Midfield,Right,81,84,26,11/1/1994,Southampton,English Premier League
+168,Kurt Zouma,38016000,33000000,France,Defender,Centre-Back,Right,81,84,26,10/27/1994,West Ham United,English Premier League
+169,Leon Bailey,38016000,45650000,Jamaica,Attack,Left Winger,Left,82,85,23,8/9/1997,Aston Villa,English Premier League
+170,Houssem Aouar,38016000,42350000,France,Midfield,Central Midfield,Right,81,86,23,6/30/1998,Olympique Lyonnais,French Ligue 1
+171,Allan Saint Maximin,38016000,29150000,France,Attack,Left Winger,Right,79,84,24,3/12/1997,Newcastle United,English Premier League
+172,Anthony Martial,38016000,37950000,France,Attack,Centre-Forward,Right,81,84,25,12/5/1995,Manchester United,English Premier League
+173,Ismael Bennacer,35640000,33000000,Algeria,Midfield,Defensive Midfield,Left,80,84,23,12/1/1997,AC Milan,Italian Serie A
+174,Angelino,35640000,50600000,Spain,Midfield,Left Midfield,Left,83,86,24,1/4/1997,RB Leipzig,German 1. Bundesliga
+175,Donyell Malen,35640000,36300000,Netherlands,Attack,Centre-Forward,Right,80,85,22,1/19/1999,Borussia Dortmund,German 1. Bundesliga
+176,Alvaro Morata,35640000,40700000,Spain,Attack,Centre-Forward,Right,83,83,28,10/23/1992,Juventus,Italian Serie A
+177,Ousmane Dembele,35640000,60500000,France,Attack,Right Winger,Both,83,88,24,5/15/1997,FC Barcelona,Spain Primera Division
+178,Renato Sanches,35640000,36300000,Portugal,Midfield,Central Midfield,Right,80,86,23,8/18/1997,LOSC Lille,French Ligue 1
+179,Ibrahima Konate,35640000,32450000,France,Defender,Centre-Back,Right,78,86,22,5/25/1999,Liverpool,English Premier League
+180,Naby Keita,35640000,30250000,Guinea,Midfield,Central Midfield,Right,80,83,26,2/10/1995,Liverpool,English Premier League
+181,Lucas Digne,35640000,44550000,France,Defender,Left-Back,Left,84,84,27,7/20/1993,Everton,English Premier League
+182,Ruslan Malinovskyi,35640000,29150000,Ukraine,Midfield,Attacking Midfield,Left,81,81,28,5/4/1993,Atalanta,Italian Serie A
+183,Duvan Zapata,35640000,39050000,Colombia,Attack,Centre-Forward,Right,83,83,30,4/1/1991,Atalanta,Italian Serie A
+184,Lucas Ocampos,35640000,43450000,Argentina,Attack,Left Winger,Both,83,83,26,7/11/1994,Sevilla FC,Spain Primera Division
+185,Dejan Kulusevski,35640000,63800000,Sweden,Attack,Right Winger,Left,81,89,21,4/25/2000,Juventus,Italian Serie A
+186,Matheus Cunha,35640000,39050000,Brazil,Attack,Centre-Forward,Right,79,86,22,5/27/1999,Atlético de Madrid,Spain Primera Division
+187,Mario Hermoso,35640000,39050000,Spain,Defender,Centre-Back,Left,82,85,26,6/18/1995,Atlético de Madrid,Spain Primera Division
+188,Nicolas Pepe,35640000,33550000,Cote d'Ivoire,Attack,Right Winger,Left,81,82,26,5/29/1995,Arsenal,English Premier League
+189,Ciro Immobile,35640000,74250000,Italy,Attack,Centre-Forward,Right,87,87,31,2/20/1990,Lazio,Italian Serie A
+190,Goncalo Guedes,35640000,42900000,Portugal,Attack,Left Winger,Right,81,86,24,11/29/1996,Valencia CF,Spain Primera Division
+191,Nabil Fekir,35640000,49500000,France,Midfield,Attacking Midfield,Left,84,84,27,7/18/1993,Real Betis Balompié,Spain Primera Division
+192,Moise Kean,33264000,43450000,Italy,Attack,Centre-Forward,Right,79,87,21,2/28/2000,Juventus,Italian Serie A
+193,Andrea Belotti,33264000,33000000,Italy,Attack,Centre-Forward,Right,81,82,27,12/20/1993,Torino F.C.,Italian Serie A
+194,John Stones,33264000,45100000,England,Defender,Centre-Back,Right,83,86,27,5/28/1994,Manchester City,English Premier League
+195,Wissam Ben Yedder,33264000,45650000,France,Attack,Centre-Forward,Both,84,84,30,8/12/1990,AS Monaco,French Ligue 1
+196,Marcus Thuram,33264000,30250000,France,Attack,Left Winger,Right,79,85,23,8/6/1997,Borussia Mönchengladbach,German 1. Bundesliga
+197,Mauro Icardi,33264000,40700000,Argentina,Attack,Centre-Forward,Right,83,83,28,2/19/1993,Paris Saint-Germain,French Ligue 1
+198,Sergio Reguilon,33264000,35750000,Spain,Defender,Left-Back,Left,81,84,24,12/16/1996,Tottenham Hotspur,English Premier League
+199,Boubakary Soumare,33264000,29700000,France,Midfield,Defensive Midfield,Right,78,85,22,2/27/1999,Leicester City,English Premier League
+200,Nikola Vlasic,32076000,36850000,Croatia,Midfield,Attacking Midfield,Right,80,86,23,10/4/1997,West Ham United,English Premier League
+201,Xaver Schlager,32076000,30250000,Austria,Midfield,Central Midfield,Left,80,84,23,9/28/1997,VfL Wolfsburg,German 1. Bundesliga
+202,Marcel Sabitzer,32076000,52800000,Austria,Midfield,Central Midfield,Right,84,85,27,3/17/1994,FC Bayern München,German 1. Bundesliga
+203,Matteo Politano,32076000,30250000,Italy,Attack,Right Winger,Left,81,81,27,8/3/1993,Napoli,Italian Serie A
+204,Denis Zakaria,32076000,33550000,Switzerland,Midfield,Defensive Midfield,Right,80,86,24,11/20/1996,Borussia Mönchengladbach,German 1. Bundesliga
+205,Ismaila Sarr,32076000,34100000,Senegal,Attack,Right Winger,Right,78,86,23,2/25/1998,Watford,English Premier League
+206,Konrad Laimer,30888000,36850000,Austria,Midfield,Central Midfield,Right,81,85,24,5/27/1997,RB Leipzig,German 1. Bundesliga
+207,Joao Palhinha,30888000,45100000,Portugal,Midfield,Defensive Midfield,Right,82,87,25,7/9/1995,Sporting CP,Portuguese Liga ZON SAGRES
+208,Joaquin Correa,30888000,34100000,Argentina,Attack,Second Striker,Right,81,82,26,8/13/1994,Inter,Italian Serie A
+209,Pedro Porro,29700000,44550000,Spain,Defender,Right-Back,Right,80,87,21,9/13/1999,Sporting CP,Portuguese Liga ZON SAGRES
+210,Otavio,29700000,33550000,Portugal,Midfield,Right Midfield,Right,81,82,26,2/9/1995,FC Porto,Portuguese Liga ZON SAGRES
+211,Lorenzo Insigne,29700000,72050000,Italy,Attack,Left Winger,Right,86,86,30,6/4/1991,Napoli,Italian Serie A
+212,Julian Brandt,29700000,39600000,Germany,Midfield,Attacking Midfield,Right,81,85,25,5/2/1996,Borussia Dortmund,German 1. Bundesliga
+213,Thomas Muller,29700000,72600000,Germany,Attack,Second Striker,Right,87,87,31,9/13/1989,FC Bayern München,German 1. Bundesliga
+214,Boubacar Kamara,29700000,34100000,France,Midfield,Defensive Midfield,Right,80,86,21,11/23/1999,Olympique de Marseille,French Ligue 1
+215,Noa Lang,29700000,31350000,Netherlands,Attack,Left Winger,Right,78,85,22,6/17/1999,Club Brugge KV,Belgian Jupiler Pro League
+216,Viktor Tsygankov,29700000,36850000,Ukraine,Attack,Right Winger,Left,80,86,23,11/15/1997,Dynamo Kyiv,Ukrainian Premier League
+217,Dele Alli,29700000,29150000,England,Midfield,Attacking Midfield,Right,80,82,25,4/11/1996,Tottenham Hotspur,English Premier League
+218,Mike Maignan,29700000,54450000,France,Goalkeeper,Goalkeeper,Right,84,89,25,7/3/1995,AC Milan,Italian Serie A
+219,Donny Van De Beek,29700000,42350000,Netherlands,Midfield,Central Midfield,Right,81,86,24,4/18/1997,Manchester United,English Premier League
+220,Ridle Baku,29700000,35200000,Germany,Midfield,Right Midfield,Right,80,85,23,4/8/1998,VfL Wolfsburg,German 1. Bundesliga
+221,Joe Gomez,29700000,47850000,England,Defender,Centre-Back,Right,82,88,24,5/23/1997,Liverpool,English Premier League
+222,Maxence Lacroix,29700000,36300000,France,Defender,Centre-Back,Right,79,86,21,4/6/2000,VfL Wolfsburg,German 1. Bundesliga
+223,Rafa Silva,29700000,33550000,Portugal,Midfield,Right Midfield,Right,82,82,28,5/17/1993,SL Benfica,Portuguese Liga ZON SAGRES
+224,Georginio Wijnaldum,29700000,44550000,Netherlands,Midfield,Central Midfield,Right,84,84,30,11/11/1990,Paris Saint-Germain,French Ligue 1
+225,Kyle Walker,29700000,42900000,England,Defender,Right-Back,Right,85,85,31,5/28/1990,Manchester City,English Premier League
+226,Unai Simon,29700000,37950000,Spain,Goalkeeper,Goalkeeper,Right,82,86,24,6/11/1997,Athletic Club de Bilbao,Spain Primera Division
+227,Nordi Mukiele,29700000,37950000,France,Defender,Right-Back,Right,81,85,23,11/1/1997,RB Leipzig,German 1. Bundesliga
+228,Jordan Pickford,29700000,36300000,England,Goalkeeper,Goalkeeper,Left,83,85,27,3/7/1994,Everton,English Premier League
+229,Oleksandr Zinchenko,29700000,32450000,Ukraine,Defender,Left-Back,Left,80,85,24,12/15/1996,Manchester City,English Premier League
+230,Gianluca Mancini,29700000,29150000,Italy,Defender,Centre-Back,Right,80,84,25,4/17/1996,Roma,Italian Serie A
+231,Toni Kroos,29700000,82500000,Germany,Midfield,Central Midfield,Right,88,88,31,1/4/1990,Real Madrid CF,Spain Primera Division
+232,Karim Benzema,29700000,72600000,France,Attack,Centre-Forward,Both,89,89,33,12/19/1987,Real Madrid CF,Spain Primera Division
+233,Cody Gakpo,29700000,30800000,Netherlands,Attack,Left Winger,Right,79,85,22,5/7/1999,PSV,Holland Eredivisie
+234,Ricardo Pereira,29700000,44550000,Portugal,Defender,Right-Back,Right,84,84,27,10/6/1993,Leicester City,English Premier League
+235,Matthias Ginter,28512000,46750000,Germany,Defender,Centre-Back,Right,84,85,27,1/19/1994,Borussia Mönchengladbach,German 1. Bundesliga
+236,Lukas Klostermann,27324000,29150000,Germany,Defender,Centre-Back,Right,80,84,25,6/3/1996,RB Leipzig,German 1. Bundesliga
+237,Danny Ings,26136000,29150000,England,Attack,Centre-Forward,Right,81,81,28,7/23/1992,Aston Villa,English Premier League
+238,Luis Muriel,26136000,33000000,Colombia,Attack,Centre-Forward,Right,82,82,30,4/16/1991,Atalanta,Italian Serie A
+239,Thiago,26136000,71500000,Spain,Midfield,Central Midfield,Right,86,86,30,4/11/1991,Liverpool,English Premier League
+240,Emre Can,26136000,38500000,Germany,Midfield,Defensive Midfield,Right,82,83,27,1/12/1994,Borussia Dortmund,German 1. Bundesliga
+241,Florian Neuhaus,26136000,50600000,Germany,Midfield,Central Midfield,Right,82,87,24,3/16/1997,Borussia Mönchengladbach,German 1. Bundesliga
+242,Giovani Lo Celso,26136000,39050000,Argentina,Midfield,Central Midfield,Left,81,85,25,4/9/1996,Tottenham Hotspur,English Premier League
+243,Ante Rebic,26136000,35750000,Croatia,Attack,Left Winger,Right,82,82,27,9/21/1993,AC Milan,Italian Serie A
+244,Jordan Veretout,26136000,32450000,France,Midfield,Central Midfield,Right,82,83,28,3/1/1993,Roma,Italian Serie A
+245,Jonathan Bamba,26136000,30800000,France,Attack,Left Winger,Right,80,83,25,3/26/1996,LOSC Lille,French Ligue 1
+246,Raul Jimenez,26136000,39050000,Mexico,Attack,Centre-Forward,Right,83,83,30,5/5/1991,Wolverhampton Wanderers,English Premier League
+247,Kevin Volland,26136000,40700000,Germany,Attack,Second Striker,Left,83,83,28,7/30/1992,AS Monaco,French Ligue 1
+248,Alex Remiro,26136000,28600000,Spain,Goalkeeper,Goalkeeper,Right,81,84,26,3/24/1995,Real Sociedad,Spain Primera Division
+249,Brahim Diaz,26136000,34650000,Spain,Midfield,Attacking Midfield,Both,78,86,21,8/3/1999,AC Milan,Italian Serie A
+250,Lucas Moura,26136000,28600000,Brazil,Attack,Right Winger,Right,81,81,28,8/13/1992,Tottenham Hotspur,English Premier League
+251,Marc Cucurella,23760000,45650000,Spain,Defender,Left-Back,Left,81,87,22,7/22/1998,Brighton & Hove Albion,English Premier League
+252,Alexandre Lacazette,23760000,33000000,France,Attack,Centre-Forward,Right,82,82,30,5/28/1991,Arsenal,English Premier League
+253,Thorgan Hazard,23760000,33550000,Belgium,Attack,Left Winger,Right,82,82,28,3/29/1993,Borussia Dortmund,German 1. Bundesliga
+254,Denzel Dumfries,23760000,38500000,Netherlands,Midfield,Right Midfield,Right,82,84,25,4/18/1996,Inter,Italian Serie A
+255,Alessio Romagnoli,23760000,34650000,Italy,Defender,Centre-Back,Left,82,83,26,1/12/1995,AC Milan,Italian Serie A
+256,Sergio Canales,23760000,37950000,Spain,Midfield,Attacking Midfield,Left,83,83,30,2/16/1991,Real Betis Balompié,Spain Primera Division
+257,Stefan Savic,23760000,37950000,Montenegro,Defender,Centre-Back,Right,84,84,30,1/8/1991,Atlético de Madrid,Spain Primera Division
+258,Renan Lodi,23760000,40150000,Brazil,Defender,Left-Back,Left,81,86,23,4/8/1998,Atlético de Madrid,Spain Primera Division
+259,Lucas Torreira,23760000,29150000,Uruguay,Midfield,Defensive Midfield,Right,80,84,25,2/11/1996,Fiorentina,Italian Serie A
+260,Filip Kostic,23760000,46750000,Serbia,Midfield,Left Midfield,Left,84,84,28,11/1/1992,Eintracht Frankfurt,German 1. Bundesliga
+261,Wout Weghorst,23760000,40700000,Netherlands,Attack,Centre-Forward,Right,83,83,28,8/7/1992,VfL Wolfsburg,German 1. Bundesliga
+262,Arthur,23760000,51700000,Brazil,Midfield,Central Midfield,Right,83,85,24,8/12/1996,Juventus,Italian Serie A
+263,Noussair Mazraoui,23760000,32450000,Morocco,Defender,Right-Back,Right,80,85,23,11/14/1997,Ajax,Holland Eredivisie
+264,Alejandro Grimaldo,23760000,40700000,Spain,Defender,Left-Back,Left,82,85,25,9/20/1995,SL Benfica,Portuguese Liga ZON SAGRES
+265,Luka Jovic,23760000,29700000,Serbia,Attack,Centre-Forward,Both,79,84,23,12/23/1997,Real Madrid CF,Spain Primera Division
+266,Leonardo Spinazzola,23760000,36300000,Italy,Defender,Left-Back,Right,83,83,28,3/25/1993,Roma,Italian Serie A
+267,Gerson,21384000,33000000,Brazil,Midfield,Central Midfield,Left,80,84,24,5/20/1997,Olympique de Marseille,French Ligue 1
+268,David De Gea,21384000,30800000,Spain,Goalkeeper,Goalkeeper,Right,84,84,30,11/7/1990,Manchester United,English Premier League
+269,Jordan Henderson,21384000,32450000,England,Midfield,Central Midfield,Right,84,84,31,6/17/1990,Liverpool,English Premier League
+270,Andrej Kramaric,21384000,39050000,Croatia,Attack,Second Striker,Right,83,83,30,6/19/1991,TSG Hoffenheim,German 1. Bundesliga
+271,Everton,21384000,30800000,Brazil,Midfield,Left Midfield,Right,80,83,25,3/22/1996,SL Benfica,Portuguese Liga ZON SAGRES
+272,Oscar,21384000,33000000,Brazil,Midfield,Attacking Midfield,Right,82,82,29,9/9/1991,Shanghai Port FC,Chinese Super League
+273,Alex Telles,21384000,30250000,Brazil,Defender,Left-Back,Left,82,82,28,12/15/1992,Manchester United,English Premier League
+274,Adrien Rabiot,21384000,33000000,France,Midfield,Central Midfield,Left,81,82,26,4/3/1995,Juventus,Italian Serie A
+275,Dean Henderson,21384000,39600000,England,Goalkeeper,Goalkeeper,Right,80,87,24,3/12/1997,Manchester United,English Premier League
+276,Allan,21384000,33550000,Brazil,Midfield,Defensive Midfield,Right,83,83,30,1/8/1991,Everton,English Premier League
+277,Matteo Pessina,21384000,30800000,Italy,Midfield,Attacking Midfield,Left,78,85,24,4/21/1997,Atalanta,Italian Serie A
+278,Steven Bergwijn,21384000,33000000,Netherlands,Attack,Left Winger,Right,80,84,23,10/8/1997,Tottenham Hotspur,English Premier League
+279,Eden Hazard,21384000,57200000,Belgium,Attack,Left Winger,Right,85,85,30,1/7/1991,Real Madrid CF,Spain Primera Division
+280,Joel Matip,21384000,33550000,Cameroon,Defender,Centre-Back,Right,83,83,29,8/8/1991,Liverpool,English Premier League
+281,Kieran Trippier,21384000,40150000,England,Defender,Right-Back,Right,84,84,30,9/19/1990,Atlético de Madrid,Spain Primera Division
+282,Philippe Coutinho,21384000,33000000,Brazil,Attack,Left Winger,Right,82,82,29,6/12/1992,FC Barcelona,Spain Primera Division
+283,Maximilian Arnold,20196000,29150000,Germany,Midfield,Central Midfield,Left,81,82,27,5/27/1994,VfL Wolfsburg,German 1. Bundesliga
+284,Arkadiusz Milik,20196000,33000000,Poland,Attack,Centre-Forward,Left,81,82,27,2/28/1994,Olympique de Marseille,French Ligue 1
+285,Maxence Caqueret,20196000,34650000,France,Midfield,Central Midfield,Right,78,86,21,2/15/2000,Olympique Lyonnais,French Ligue 1
+286,Bernd Leno,19008000,30800000,Germany,Goalkeeper,Goalkeeper,Right,83,84,29,3/4/1992,Arsenal,English Premier League
+287,Suso,19008000,35750000,Spain,Attack,Right Winger,Left,82,82,27,11/19/1993,Sevilla FC,Spain Primera Division
+288,Marcos Acuna,17820000,40700000,Argentina,Defender,Left-Back,Left,84,84,29,10/28/1991,Sevilla FC,Spain Primera Division
+289,Pierre Emerick Aubameyang,17820000,47850000,Gabon,Attack,Centre-Forward,Right,85,85,32,6/18/1989,Arsenal,English Premier League
+290,Pervis Estupinan,17820000,28600000,Ecuador,Defender,Left-Back,Left,79,85,23,1/21/1998,Villarreal CF,Spain Primera Division
+291,Portu,17820000,33000000,Spain,Attack,Right Winger,Right,82,82,29,5/21/1992,Real Sociedad,Spain Primera Division
+292,Yeray Alvarez,17820000,30800000,Spain,Defender,Centre-Back,Right,81,83,26,1/24/1995,Athletic Club de Bilbao,Spain Primera Division
+293,Christian Eriksen,17820000,32450000,Denmark,Midfield,Attacking Midfield,Right,82,82,29,2/14/1992,Inter,Italian Serie A
+294,Wojciech Szczesny,17820000,46200000,Poland,Goalkeeper,Goalkeeper,Right,87,87,31,4/18/1990,Juventus,Italian Serie A
+295,Angel Di Maria,17820000,54450000,Argentina,Attack,Right Winger,Left,87,87,33,2/14/1988,Paris Saint-Germain,French Ligue 1
+296,Clement Lenglet,16632000,41250000,France,Defender,Centre-Back,Left,82,86,26,6/17/1995,FC Barcelona,Spain Primera Division
+297,Koen Casteels,16632000,57200000,Belgium,Goalkeeper,Goalkeeper,Left,86,87,29,6/25/1992,VfL Wolfsburg,German 1. Bundesliga
+298,Pierluigi Gollini,15444000,38500000,Italy,Goalkeeper,Goalkeeper,Right,82,87,26,3/18/1995,Tottenham Hotspur,English Premier League
+299,Sebastian Coates,15444000,33000000,Uruguay,Defender,Centre-Back,Right,83,83,30,10/7/1990,Sporting CP,Portuguese Liga ZON SAGRES
+300,Dusan Tadic,15444000,36850000,Serbia,Attack,Left Winger,Left,84,84,32,11/20/1988,Ajax,Holland Eredivisie
+301,Marco Reus,15444000,47300000,Germany,Midfield,Attacking Midfield,Right,85,85,32,5/31/1989,Borussia Dortmund,German 1. Bundesliga
+302,Jordi Alba,14256000,51700000,Spain,Defender,Left-Back,Left,86,86,32,3/21/1989,FC Barcelona,Spain Primera Division
+303,Alphonse Areola,14256000,28600000,France,Goalkeeper,Goalkeeper,Right,82,84,28,2/27/1993,West Ham United,English Premier League
+304,Alex Meret,14256000,33000000,Italy,Goalkeeper,Goalkeeper,Left,79,86,24,3/22/1997,Napoli,Italian Serie A
+305,Iker Muniain,14256000,40150000,Spain,Attack,Left Winger,Right,83,83,28,12/19/1992,Athletic Club de Bilbao,Spain Primera Division
+306,Adnan Januzaj,14256000,30800000,Belgium,Attack,Right Winger,Left,81,81,26,2/5/1995,Real Sociedad,Spain Primera Division
+307,Unai Nunez,14256000,29700000,Spain,Defender,Centre-Back,Right,80,84,24,1/30/1997,Athletic Club de Bilbao,Spain Primera Division
+308,Juan Bernat,14256000,30250000,Spain,Defender,Left-Back,Left,82,82,28,3/1/1993,Paris Saint-Germain,French Ligue 1
+309,Mario Gotze,14256000,33000000,Germany,Midfield,Attacking Midfield,Right,82,82,29,6/3/1992,PSV,Holland Eredivisie
+310,Paco Alcacer,14256000,30800000,Spain,Attack,Centre-Forward,Right,81,81,27,8/30/1993,Villarreal CF,Spain Primera Division
+311,Nicolas Tagliafico,14256000,30250000,Argentina,Defender,Left-Back,Left,82,82,28,8/31/1992,Ajax,Holland Eredivisie
+312,Talisca,13662000,39050000,Brazil,Midfield,Attacking Midfield,Left,82,83,27,2/1/1994,Al Nassr,Saudi Abdul L. Jameel League
+313,Peter Gulacsi,13068000,31350000,Hungary,Goalkeeper,Goalkeeper,Right,85,85,31,5/6/1990,RB Leipzig,German 1. Bundesliga
+314,Henrikh Mkhitaryan,11880000,32450000,Armenia,Midfield,Attacking Midfield,Both,83,83,32,1/21/1989,Roma,Italian Serie A
+315,Luis Suarez,11880000,48950000,Colombia,Attack,Centre-Forward,Right,88,88,34,1/24/1987,Atlético de Madrid,Spain Primera Division
+316,Luis Suarez,11880000,48950000,Uruguay,Attack,Centre-Forward,Right,88,88,34,1/24/1987,Atlético de Madrid,Spain Primera Division
+317,Luka Modric,11880000,35200000,Croatia,Midfield,Central Midfield,Both,87,87,35,9/9/1985,Real Madrid CF,Spain Primera Division
+318,Dani Parejo,10692000,58850000,Spain,Midfield,Central Midfield,Right,86,86,32,4/16/1989,Villarreal CF,Spain Primera Division
+319,Isco,10692000,33000000,Spain,Midfield,Attacking Midfield,Right,82,82,29,4/21/1992,Real Madrid CF,Spain Primera Division
+320,Sergio Busquets,10692000,49500000,Spain,Midfield,Defensive Midfield,Right,86,86,32,7/16/1988,FC Barcelona,Spain Primera Division
+321,Mats Hummels,10692000,48400000,Germany,Defender,Centre-Back,Right,86,86,32,12/16/1988,Borussia Dortmund,German 1. Bundesliga
+322,Jose Campana,10692000,33550000,Spain,Midfield,Central Midfield,Right,82,82,28,5/31/1993,Levante Unión Deportiva,Spain Primera Division
+323,Alex Sandro,10692000,34650000,Brazil,Defender,Left-Back,Left,83,83,30,1/26/1991,Juventus,Italian Serie A
+324,Stefano Sensi,9504000,30250000,Italy,Midfield,Central Midfield,Right,80,83,25,8/5/1995,Inter,Italian Serie A
+325,Uros Racic,9504000,30800000,Serbia,Midfield,Defensive Midfield,Both,78,85,23,3/17/1998,Valencia CF,Spain Primera Division
+326,Felipe,9504000,30250000,Brazil,Defender,Centre-Back,Right,84,84,32,5/16/1989,Atlético de Madrid,Spain Primera Division
+327,Darwin Machis,8910000,28600000,Venezuela,Attack,Left Winger,Right,81,81,28,2/7/1993,Granada CF,Spain Primera Division
+328,Jovane,8316000,34100000,Cape Verde,Attack,Left Winger,Right,78,86,23,6/14/1998,Sporting CP,Portuguese Liga ZON SAGRES
+329,Iago Aspas,8316000,29700000,Spain,Attack,Centre-Forward,Left,84,84,33,8/1/1987,RC Celta de Vigo,Spain Primera Division
+330,Javi Puado,7128000,30800000,Spain,Attack,Left Winger,Right,78,85,23,5/25/1998,RCD Espanyol de Barcelona,Spain Primera Division
+331,Carlos Vela,5940000,31900000,Mexico,Attack,Right Winger,Left,83,83,32,3/1/1989,Los Angeles FC,USA Major League Soccer
+332,Yann Sommer,5940000,29150000,Switzerland,Goalkeeper,Goalkeeper,Right,85,85,32,12/17/1988,Borussia Mönchengladbach,German 1. Bundesliga
+333,Jamie Vardy,5940000,36300000,England,Attack,Centre-Forward,Right,86,86,34,1/11/1987,Leicester City,English Premier League
+334,Edinson Cavani,4752000,28600000,Uruguay,Attack,Centre-Forward,Right,85,85,34,2/14/1987,Manchester United,English Premier League
+335,Josip Ilicic,3564000,29700000,Slovenia,Attack,Second Striker,Left,84,84,33,1/29/1988,Atalanta,Italian Serie A
+336,Andre Silva,1069200,56100000,Brazil,Attack,Centre-Forward,Left,84,85,25,11/6/1995,RB Leipzig,German 1. Bundesliga
+337,Alejandro Gomez,475200,36850000,Mexico,Defender,Centre-Back,Left,85,85,33,2/15/1988,Sevilla FC,Spain Primera Division
+338,Antony,237600,43450000,Brazil,Attack,Second Striker,Right,79,88,21,2/24/2000,Ajax,Holland Eredivisie
+339,Sergio Aguero,,56100000,Argentina,Attack,Centre-Forward,Right,87,87,33,6/2/1988,FC Barcelona,Spain Primera Division
